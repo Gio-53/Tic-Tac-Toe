@@ -5,8 +5,8 @@
 * You can test this by downloading the files and opening the index.html file.
 
 ### start setup
-[](image1.png)
+![](image1.png)
 
 ### endgame setup
 
-[](image2.png)
+![](image2.png)
